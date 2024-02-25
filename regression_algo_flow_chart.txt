@@ -1,0 +1,25 @@
+1. Dataset Size
+   |
+   └─ Small
+      |
+      ├─ Linear Regression
+      └─ Ridge Regression
+
+   └─ Large
+      |
+      ├─ Linear Relationship
+      |   |
+      |   ├─ Linear Regression
+      |   └─ Lasso Regression
+      |
+      └─ Non-linear Relationship
+          |
+          ├─ Interpretability Crucial
+          |   |
+          |   ├─ Decision Trees
+          |   └─ Random Forest
+          |
+          └─ High Predictive Accuracy
+              |
+              ├─ Gradient Boosting (e.g., XGBoost, LightGBM)
+              └─ Deep Learning (Neural Networks)

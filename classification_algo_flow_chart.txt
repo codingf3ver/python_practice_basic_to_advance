@@ -1,0 +1,26 @@
+1. Dataset Size
+   |
+   └─ Small
+      |
+      ├─ Logistic Regression
+      ├─ Naive Bayes
+      └─ k-Nearest Neighbors (KNN)
+
+   └─ Large
+      |
+      ├─ Linear Separability
+      |   |
+      |   ├─ Linear SVM
+      |   └─ Logistic Regression
+      |
+      └─ Non-linear Relationship
+          |
+          ├─ Interpretability Crucial
+          |   |
+          |   ├─ Decision Trees
+          |   └─ Random Forest
+          |
+          └─ High Predictive Accuracy
+              |
+              ├─ Gradient Boosting (e.g., XGBoost, LightGBM)
+              └─ Deep Learning (Neural Networks)
